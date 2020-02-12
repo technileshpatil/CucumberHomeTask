@@ -33,7 +33,7 @@ public WebDriver initializeDriver() throws IOException
 {
 //Calling External data properties file to avoid hard code- I have used both solutions here to give some examples- Data sources can be Excel,XML,JSON,PLAIN TEXT or Any
  prop= new Properties();																						//Request you to change this path as a local path
-FileInputStream fis=new FileInputStream("C:\\AmazonProductSearch\\src\\test\\java\\resources\\data.properties");// This path also can be parameterized in Data.proprties
+FileInputStream fis=new FileInputStream("C:\\CucumberHomeTask\\src\\test\\java\\resources\\data.properties");// This path also can be parameterized in Data.proprties
 
 prop.load(fis);
 String browserName=prop.getProperty("browser");
@@ -41,9 +41,9 @@ System.out.println(browserName);
 
 if(browserName.equals("chrome"))
 {																											//Request you to change this path as a local path
-	 System.setProperty("webdriver.chrome.driver", "C:\\AmazonProductSearch\\driverfiles\\chromedriver.exe");// This path also can be parameterized in Data.proprties
+	 System.setProperty("webdriver.chrome.driver", "C:\\CucumberHomeTask\\driverfiles\\chromedriver.exe");// This path also can be parameterized in Data.proprties
 	driver= new ChromeDriver();
-	//Execute in chrome driver	
+	//Execute in Chrome driver	
 	
 	//Add options to Google Chrome-To run Headless. The window-size is important for responsive sites
     //Remove comment if you want to test also import

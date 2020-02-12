@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Surefire suite" duration-ms="45782" started-at="2020-02-12T21:54:50Z" finished-at="2020-02-12T21:55:35Z">
+  <suite name="Surefire suite" duration-ms="46986" started-at="2020-02-12T22:41:43Z" finished-at="2020-02-12T22:42:29Z">
     <groups>
     </groups>
-    <test name="Surefire test" duration-ms="45782" started-at="2020-02-12T21:54:50Z" finished-at="2020-02-12T21:55:35Z">
+    <test name="Surefire test" duration-ms="46986" started-at="2020-02-12T22:41:43Z" finished-at="2020-02-12T22:42:29Z">
       <class name="automationTaskOulu.AmazonProductSearch.AppTest">
-        <test-method status="PASS" signature="shouldAnswerWithTrue()" name="shouldAnswerWithTrue" duration-ms="43" started-at="2020-02-12T21:54:50Z" finished-at="2020-02-12T21:54:50Z">
+        <test-method status="PASS" signature="shouldAnswerWithTrue()" name="shouldAnswerWithTrue" duration-ms="48" started-at="2020-02-12T22:41:43Z" finished-at="2020-02-12T22:41:43Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- shouldAnswerWithTrue -->
