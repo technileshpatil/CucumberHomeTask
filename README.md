@@ -7,7 +7,7 @@ This is Mini Cucumber Project to Automate Web Applications
 - Git
 - Setup Cucumber Framework and adding data.properties values as per needed
 - Clone the project in C: Drive
-- Open CMD and navigate to project and run maven Test
+- Open CMD and navigate to project and run maven Test or Run Batch file-RunTest.bat
 
 
 # AmazonProductSearch
