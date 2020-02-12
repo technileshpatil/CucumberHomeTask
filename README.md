@@ -21,8 +21,8 @@ Create Selenium Web browser tests using Java language for amazon.com with follow
 - Test is implemented as Maven project
 
 
-#Post Execution
-Cucumber Test Results available under project C:\CucumberHomeTask\target\cucumber-report\reports.html
-Logs you will find under logs folder
+# Post Execution
+- Cucumber Test Results available under project C:\CucumberHomeTask\target\cucumber-report\reports.html
+- Logs you will find under logs folder
 
 
