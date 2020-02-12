@@ -1,13 +1,13 @@
 # CucumberHomeTask
 This is Mini Cucumber Project to Automate Web Applications
 #Pre-requisite Setup
-1.Maven-Set Environment variable
-2.Java JDK-Set Environment variable
-3.Eclipse IDE
-4.Git
-5.Setup Cucumber Framework and adding data.properties values as per needed
-6.Clone the project in C: Drive
-7.Open CMD and navigate to project and run maven Test
+- Maven-Set Environment variable
+- Java JDK-Set Environment variable
+- Eclipse IDE
+- Git
+- Setup Cucumber Framework and adding data.properties values as per needed
+- Clone the project in C: Drive
+- Open CMD and navigate to project and run maven Test
 
 
 # AmazonProductSearch
@@ -24,3 +24,5 @@ Create Selenium Web browser tests using Java language for amazon.com with follow
 #Post Execution
 Cucumber Test Results available under project C:\CucumberHomeTask\target\cucumber-report\reports.html
 Logs you will find under logs folder
+
+
