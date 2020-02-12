@@ -1,0 +1,7 @@
+automationTaskOulu\AmazonProductSearch\AppTest.class
+pageObjects\LandingPage.class
+cucumberRunner\TestRunner.class
+functionDefinations\amazonHomePage.class
+resources\base.class
+pageObjects\ProductPage.class
+stepdefination\stepDefinationProductSearch.class
