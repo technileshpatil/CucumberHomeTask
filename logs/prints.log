@@ -1,4 +1,4 @@
-23:42:26.566 [main] INFO  resources.base - Clicked on 2nd Product as given on Product page Sucessfully
-23:42:27.454 [main] INFO  resources.base - Captured the actual productNikon D5 DSLR Camera (Body Only, Dual CF Slots) - Bundle with SanDisk 32 GB CompactFlash Memory Card + Nikon AF-S NIKKOR 28-300mm f/3.5-5.6G ED VR Lens and More
-23:42:27.477 [main] INFO  resources.base - Data as expected is not verified as same product is not availble
-23:42:28.859 [main] INFO  resources.base - Browser Closed
+00:17:18.878 [main] INFO  resources.base - Clicked on 2nd Product as given on Product page Sucessfully
+00:17:19.826 [main] INFO  resources.base - Captured the actual productNikon D5 DSLR Camera (Body Only, Dual CF Slots) - Bundle with SanDisk 32 GB CompactFlash Memory Card + Nikon AF-S NIKKOR 28-300mm f/3.5-5.6G ED VR Lens and More
+00:17:19.856 [main] INFO  resources.base - Data as expected is not verified as same product is not availble
+00:17:21.162 [main] INFO  resources.base - Browser Closed

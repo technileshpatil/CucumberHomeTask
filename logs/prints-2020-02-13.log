@@ -1,0 +1,7 @@
+00:16:53.277 [main] INFO  resources.base - Driver is initialized
+00:17:04.333 [main] INFO  resources.base - Openhttp://www.amazon.comSuccessfully
+00:17:05.241 [main] INFO  resources.base - Amazon Home Page Search box is visible and enabled
+00:17:05.500 [main] INFO  resources.base - Entered data'Nikon' Sucessfully
+00:17:10.086 [main] INFO  resources.base - Click search button Sucessfully
+00:17:10.282 [main] INFO  resources.base - Data enter by user is visible on product page Sucessfully
+00:17:13.469 [main] INFO  resources.base - Select filter by option 'High to Low' is Sucessfully
