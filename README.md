@@ -1,6 +1,6 @@
 # CucumberHomeTask
 This is Mini Cucumber Project to Automate Web Applications
-#Pre-requisite Setup
+# Pre-requisite Setup
 - Maven-Set Environment variable
 - Java JDK-Set Environment variable
 - Eclipse IDE
@@ -8,6 +8,7 @@ This is Mini Cucumber Project to Automate Web Applications
 - Setup Cucumber Framework and adding data.properties values as per needed
 - Clone the project in C: Drive
 - Open CMD and navigate to project and run maven Test or Run Batch file-RunTest.bat
+- Open RUN BOOK.PDF to undertand project
 
 
 # AmazonProductSearch
